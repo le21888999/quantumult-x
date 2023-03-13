@@ -54,20 +54,20 @@
 ^https?:\/\/gw.aihuishou.com\/app-portal\/home\/getadvertisement url reject
 # > appso
 ^https?:\/\/sso.ifanr.com\/jiong\/IOS\/appso\/splash\/ url reject
-# > alibaba
+# > alibaba阿里巴巴
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv\/ url reject
 
 
 # ======= B ======= #
 
-# > baiduditu
+# > baiduditu百度地图
 ^https:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads url script-response-body https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js
 # > baidufanyi
 ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo url reject
 ^https?:\/\/mime\.baidu\.com\/v\d\/activity\/advertisement url reject
-# > baiduwenku
+# > baiduwenku百度文库
 ^https?:\/\/appwk\.baidu\.com\/xpage\/interface\/wknaad url reject
-# > baiduwangpan
+# > baiduwangpan百度网盘
 ^https?:\/\/pan\.baidu\.com\/act\/v\d\/(bchannel|welfare)\/list url reject
 ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad url reject
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry url reject
