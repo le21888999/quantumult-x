@@ -1,0 +1,43 @@
+#HOST-SUFFIX,spotify.com,Proxy
+
+DOMAIN-SUFFIX,whoer.net,Proxy
+DOMAIN-SUFFIX,aaxxxx.com,全球加速
+DOMAIN-SUFFIX,ttdhm.store,direct
+DOMAIN-SUFFIX,smailpro.com,日本节点
+#DOMAIN-SUFFIX,gaoneng.bilibili.com,direct
+
+# > ChatGPT分流
+DOMAIN-SUFFIX,chat.openai.com, ChatGPT
+DOMAIN-SUFFIX,openai.com, ChatGPT
+DOMAIN-SUFFIX,platform.openai.com, ChatGPT
+
+
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv, Twitter
+DOMAIN-SUFFIX,periscope.tv, Twitter
+DOMAIN-SUFFIX,t.co, Twitter
+DOMAIN-SUFFIX,twimg.co, Twitter
+DOMAIN-SUFFIX,twimg.com, Twitter
+DOMAIN-SUFFIX,twitpic.com, Twitter
+DOMAIN-SUFFIX,vine.co, Twitter
+DOMAIN-KEYWORD,twitter, Twitter
+# > YouTube
+user-agent, com.google.ios.youtube*, YouTube
+user-agent, YouTube*, YouTube
+host-suffix, googlevideo.com, YouTube
+host-suffix, youtube.com, YouTube
+host, youtubei.googleapis.com, YouTube
+# > Spotify
+user-agent, Spotify*, Spotify
+host-suffix, pscdn.co, Spotify
+host-suffix, scdn.co, Spotify
+host-suffix, spotify.com, Spotify
+host-suffix, spoti.fi, Spotify
+host-keyword, spotify.com, Spotify
+host-keyword, -spotify-com, Spotify
+#同花顺直连分流
+DOMAIN-SUFFIX,mobi2.123ths.com,direct
+DOMAIN-SUFFIX,eq.10jqka.com.cn,direct
+DOMAIN-SUFFIX,mnews.hexin.cn,direct
+DOMAIN-SUFFIX,m.10jqka.com.cn,direct
+#DOMAIN-SUFFIX,
