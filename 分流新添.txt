@@ -36,8 +36,8 @@ host-suffix, spoti.fi, Spotify
 host-keyword, spotify.com, Spotify
 host-keyword, -spotify-com, Spotify
 #同花顺直连分流
-DOMAIN-SUFFIX,mobi2.123ths.com,direct
-DOMAIN-SUFFIX,eq.10jqka.com.cn,direct
-DOMAIN-SUFFIX,mnews.hexin.cn,direct
-DOMAIN-SUFFIX,m.10jqka.com.cn,direct
+#DOMAIN-SUFFIX,mobi2.123ths.com,direct
+#DOMAIN-SUFFIX,eq.10jqka.com.cn,direct
+#DOMAIN-SUFFIX,mnews.hexin.cn,direct
+#DOMAIN-SUFFIX,m.10jqka.com.cn,direct
 #DOMAIN-SUFFIX,
