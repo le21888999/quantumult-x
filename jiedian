@@ -1,0 +1,1 @@
+shadowsocks=hn-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=230898:BxV2JskmIc, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=香港|流媒体
