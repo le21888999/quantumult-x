@@ -20,8 +20,8 @@ host-suffix,gtm.steamproxy.vip,steam
 
 
 
-host-suffix,sanfen005.xyz,冲浪猫
-host-suffix,xn--mesv7f5toqlp.com,冲浪猫
+DOMAIN-SUFFIX,sanfen005.xyz,冲浪猫
+DOMAIN-SUFFIX,xn--mesv7f5toqlp.com,冲浪猫
 #host-suffix,
 #host-suffix,
 #host-suffix,
