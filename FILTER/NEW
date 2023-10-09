@@ -1,6 +1,6 @@
 #DOMAIN-SUFFIX, ckcloud.xyz, proxy
 DOMAIN-SUFFIX,headphones-cdn.meta.ndmdhs.com,狮城节点
-USER-AGENT,抖音*,DIRECT
+USER-AGENT,*抖音*,DIRECT
 
 #steam分流
 DOMAIN-SUFFIX,steamcommunity.com,steam
