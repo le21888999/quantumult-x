@@ -4,20 +4,12 @@ USER-AGENT,*抖音*,DIRECT
 
 #steam分流
 DOMAIN-SUFFIX,steamcommunity.com,steam
-DOMAIN-SUFFIX,avatars.akamai.steamstatic.com,steam
-DOMAIN-SUFFIX,api.steampowered.com,steam
-DOMAIN-SUFFIX,store.steampowered.com,steam
-DOMAIN-SUFFIX,store.akamai.steamstatic.com,steam
+DOMAIN-SUFFIX,steamstatic.com,steam
+DOMAIN-SUFFIX,steampowered.com,steam
 DOMAIN-SUFFIX,steammobile.akamaized.net,steam
 DOMAIN-SUFFIX,community.steam-api.com,steam
 DOMAIN-SUFFIX,steamproxy.net,steam
-DOMAIN-SUFFIX,avatars.steamstatic.com,steam
-DOMAIN-SUFFIX,help.steampowered.com,steam
-DOMAIN-SUFFIX,checkout.steampowered.com,steam
-DOMAIN-SUFFIX,cdn.akamai.steamstatic.com,steam
-DOMAIN-SUFFIX,community.akamai.steamstatic.com,steam
-DOMAIN-SUFFIX,steamcommunity.com,steam
-DOMAIN-SUFFIX,gtm.steamproxy.vip,steam
+DOMAIN-SUFFIX,steamproxy.vip,steam
 
 
 
