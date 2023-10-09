@@ -33,17 +33,17 @@ DOMAIN-KEYWORD,twitter, Twitter
 # > YouTube
 user-agent, com.google.ios.youtube*, YouTube
 user-agent, YouTube*, YouTube
-host-suffix, googlevideo.com, YouTube
-host-suffix, youtube.com, YouTube
-host, youtubei.googleapis.com, YouTube
+DOMAIN-SUFFIX,googlevideo.com, YouTube
+DOMAIN-SUFFIX,youtube.com, YouTube
+DOMAIN-SUFFIX,youtubei.googleapis.com, YouTube
 # > Spotify
 user-agent, Spotify*, Spotify
-host-suffix, pscdn.co, Spotify
-host-suffix, scdn.co, Spotify
-host-suffix, spotify.com, Spotify
-host-suffix, spoti.fi, Spotify
-host-keyword, spotify.com, Spotify
-host-keyword, -spotify-com, Spotify
+DOMAIN-SUFFIX, pscdn.co, Spotify
+DOMAIN-SUFFIX, scdn.co, Spotify
+DOMAIN-SUFFIX,spotify.com, Spotify
+DOMAIN-SUFFIX,spoti.fi, Spotify
+DOMAIN-SUFFIX,spotify.com, Spotify
+DOMAIN-SUFFIX,-spotify-com, Spotify
 
 DOMAIN-SUFFIX,sanfen005.xyz,冲浪猫
 DOMAIN-SUFFIX,xn--mesv7f5toqlp.com,冲浪猫
